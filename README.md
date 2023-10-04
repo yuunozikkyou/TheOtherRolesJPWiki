@@ -3,7 +3,7 @@
 <head>
 <meta charset=”ytf-8” >
 <meta name=”viewport” content=”width=device-width, initial-scale=1” >
-<title>TheOtherRoles JP Wiki</title>
+
 </head>
 <body>
 <p>このサイトは、TheOtherRoles JPの開発者である"ゆうの実況"という方から作られました</p>
